@@ -1,0 +1,6 @@
+Synfony Parte 1: Criação de uma api Restful
+Synfony Parte 2: Autenticação e HATEOAS
+PHP Doctrine: Introdução ao Mapeamento Objeto-Relacional
+Laravel Parte 1: Produtividade no desenvolvimento web
+Laravel Parte 2: Trabalhando com Autenticação, Relacionamentos e testes
+MVC - Model View e Controll 
